@@ -73,9 +73,6 @@ footer {
 #feature-photo {
     max-width: 250px;
 }
-#tribute-info {
-    margin-top: 40px;
-}
 
 #activism {
     display: flex;
@@ -87,8 +84,6 @@ footer {
     display: flex;
     justify-content: center;
     flex-direction: column;
-    max-width: 500px;
-    padding-right: 30px;
     margin: auto;
 }
 
@@ -102,4 +97,9 @@ footer {
     align-items: center;
     width: 100px;
     margin: auto;
+}
+
+#image {
+    margin: auto;
+    max-width: 500px;
 }
